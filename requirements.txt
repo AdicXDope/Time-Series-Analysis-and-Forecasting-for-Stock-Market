@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy>=1.24
+yfinance>=0.2.18
+scikit-learn>=1.2
+pmdarima>=2.0.3
+prophet>=1.1
+cmdstanpy>=1.1
+tensorflow>=2.12
+matplotlib>=3.7
+seaborn>=0.12
+jupyterlab>=4.0
+notebook>=6.5
+joblib>=1.2
